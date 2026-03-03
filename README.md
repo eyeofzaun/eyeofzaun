@@ -11,7 +11,11 @@
 
 
 
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbl7wts44ftfv2ro60ol3lub2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=7e2020&bar_color_cover=false">
+  </a>
+</p>
 
 
 <p align="center"><img width="24" height="31" alt="image" src="https://github.com/user-attachments/assets/4b516501-d51e-4679-8594-65bc837492de" />  <img src="https://komarev.com/ghpvc/?username=eyeofzaun&style=flat-square&color=c22323&style=plastic&label=󠁪󠁪󠁝󠁝󠁵󠁵VISITORS" alt=""/> <img width="24" height="31" alt="image" src="https://github.com/user-attachments/assets/4b516501-d51e-4679-8594-65bc837492de" /> 
