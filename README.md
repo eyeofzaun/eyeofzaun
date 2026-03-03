@@ -3,7 +3,7 @@
 
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2300&pause=500&color=540a00&center=true&width=650&lines=%E2%80%98why+do+others+do+things+others+deem+unspeakable?,%E2%80%99;%E2%80%98for+love.%E2%80%99;%E2%80%98.+.+.%E2%80%99;%E2%80%98don't+cry,%E2%80%99;%E2%80%98you're+perfect.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2300&pause=500&color=540a00&center=true&width=650&lines=%E2%80%98why+does+anyone+commit+acts+others+deem+unspeakable?,%E2%80%99;%E2%80%98for+love.%E2%80%99;%E2%80%98.+.+.%E2%80%99;%E2%80%98don't+cry,%E2%80%99;%E2%80%98you're+perfect.%E2%80%99"/>
 </p>
 
 
