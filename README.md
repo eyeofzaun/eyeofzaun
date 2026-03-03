@@ -2,6 +2,9 @@
 
 
 
+   <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2300&pause=500&color=540a00&center=true&width=650&lines=%E2%80%98why+do+others+do+things+others+deem+unspeakable?,%E2%80%99;%E2%80%98for+love.%E2%80%99;%E2%80%98.+.+.%E2%80%99;%E2%80%98don't+cry,%E2%80%99;%E2%80%98you're+perfect.%E2%80%99"/>
+</p>
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/3d66aaec-a552-43a0-846b-dfd2ecb9d46f">
@@ -13,7 +16,6 @@
 ![tumblr_617599e559ff01e0c05f41a97cdbe5ca_15354afd_100](https://github.com/user-attachments/assets/d851d8cb-a3a8-4330-9eee-230a2eb9921d)
 ![tumblr_31bed2cb81f74680dd399fd6d136d919_38339e88_100](https://github.com/user-attachments/assets/08cbf5b5-6536-4f22-9c0b-5a9bac320e20)
 ![tumblr_70b66b0cd8796c2602357bc247ce120d_77f033b8_100](https://github.com/user-attachments/assets/d8b6b69f-01bf-43ea-9619-065c3b0cecf7)![tumblr_6a8162804e83e39115a73f8dbec604bf_903e11d3_100](https://github.com/user-attachments/assets/2e3a4b8e-181f-4aed-a313-145c9cc6736a)
-![tumblr_c9b6724e1ee13f8fee4b47ab2470c7eb_0e8ffcd0_100](https://github.com/user-attachments/assets/0e96a98f-2c91-4de4-b10a-ab75ca7b3205)
 
 
 
